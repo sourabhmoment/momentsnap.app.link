@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.momentsnap.android",
+    "sha256_cert_fingerprints":
+    ["C3:18:F9:09:81:4B:D6:31:93:54:3E:64:0B:B5:B0:6B:42:8C:C3:FD:5D:F0:AA:3F:E2:AD:4D:00:41:63:B1:E4"]
+  }
+}]
